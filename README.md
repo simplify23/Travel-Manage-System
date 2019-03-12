@@ -14,3 +14,7 @@ C++ MFC
 
 ## 运行环境
 在windows的 vs2017下运行，需要安装mfc
+
+
+
+其他相关介绍见：https://blog.csdn.net/qq_35307005/article/details/88413823
