@@ -17,4 +17,5 @@ C++ MFC
 
 
 
-其他相关介绍见：https://blog.csdn.net/qq_35307005/article/details/88413823
+## 详细功能演示和展示见：
+https://blog.csdn.net/qq_35307005/article/details/88413823
